@@ -1,0 +1,377 @@
+[
+  {
+    "abbreviation": "AL",
+    "date": "",
+    "name": "Alabama",
+    "note": "",
+    "visited": false
+  },
+  {
+    "abbreviation": "AK",
+    "date": "",
+    "name": "Alaska",
+    "note": "",
+    "visited": false
+  },
+  {
+    "abbreviation": "AZ",
+    "date": "1994",
+    "name": "Arizona",
+    "note": "Grand Canyon",
+    "visited": true
+  },
+  {
+    "abbreviation": "AR",
+    "date": "",
+    "name": "Arkansas",
+    "note": "",
+    "visited": false
+  },
+  {
+    "abbreviation": "CA",
+    "date": "2015",
+    "lived": true,
+    "name": "California",
+    "note": "San Francisco, San Diego, California 1",
+    "visited": true
+  },
+  {
+    "abbreviation": "CO",
+    "date": "1994",
+    "drive-only": true,
+    "name": "Colorado",
+    "note": "",
+    "visited": true
+  },
+  {
+    "abbreviation": "CT",
+    "date": "1988",
+    "high-pointed": false,
+    "lived": true,
+    "name": "Connecticut",
+    "note": "Raised",
+    "visited": true
+  },
+  {
+    "abbreviation": "DE",
+    "date": "",
+    "drive-only": true,
+    "name": "Delaware",
+    "note": "",
+    "visited": true
+  },
+  {
+    "abbreviation": "FL",
+    "date": "1994",
+    "name": "Florida",
+    "note": "Everglades, Disney World, Ft. Lauderdale",
+    "visited": true
+  },
+  {
+    "abbreviation": "GA",
+    "date": "1992",
+    "name": "Georgia",
+    "note": "Grandparents",
+    "visited": true
+  },
+  {
+    "abbreviation": "HI",
+    "date": "",
+    "name": "Hawaii",
+    "note": "",
+    "visited": false
+  },
+  {
+    "abbreviation": "ID",
+    "date": "1994",
+    "drive-only": true,
+    "name": "Idaho",
+    "note": "",
+    "visited": true
+  },
+  {
+    "abbreviation": "IL",
+    "date": "1994",
+    "name": "Illinois",
+    "note": "Sisters college",
+    "visited": true
+  },
+  {
+    "abbreviation": "IN",
+    "date": "1994",
+    "drive-only": true,
+    "name": "Indiana",
+    "note": "",
+    "visited": true
+  },
+  {
+    "abbreviation": "IA",
+    "date": "",
+    "name": "Iowa",
+    "note": "",
+    "visited": false
+  },
+  {
+    "abbreviation": "KS",
+    "date": "",
+    "name": "Kansas",
+    "note": "",
+    "visited": false
+  },
+  {
+    "abbreviation": "KY",
+    "date": "",
+    "name": "Kentucky",
+    "note": "",
+    "visited": false
+  },
+  {
+    "abbreviation": "LA",
+    "date": "2014",
+    "name": "Louisiana",
+    "note": "New Orleans",
+    "visited": true
+  },
+  {
+    "abbreviation": "ME",
+    "date": "2002",
+    "high-pointed": true,
+    "name": "Maine",
+    "note": "Allagash, Katahdin",
+    "visited": true
+  },
+  {
+    "abbreviation": "MD",
+    "date": "",
+    "drive-only": true,
+    "name": "Maryland",
+    "note": "",
+    "visited": true
+  },
+  {
+    "abbreviation": "MA",
+    "date": "1992",
+    "high-pointed": true,
+    "lived": true,
+    "name": "Massachusetts",
+    "note": "",
+    "visited": true
+  },
+  {
+    "abbreviation": "MI",
+    "date": "",
+    "name": "Michigan",
+    "note": "",
+    "visited": false
+  },
+  {
+    "abbreviation": "MN",
+    "date": "",
+    "drive-only": true,
+    "name": "Minnesota",
+    "note": "Airport",
+    "visited": true
+  },
+  {
+    "abbreviation": "MS",
+    "date": "",
+    "name": "Mississippi",
+    "note": "",
+    "visited": false
+  },
+  {
+    "abbreviation": "MO",
+    "date": "",
+    "name": "Missouri",
+    "note": "",
+    "visited": false
+  },
+  {
+    "abbreviation": "MT",
+    "date": "1992",
+    "name": "Montana",
+    "note": "Trout fishing",
+    "visited": true
+  },
+  {
+    "abbreviation": "NE",
+    "date": "",
+    "name": "Nebraska",
+    "note": "",
+    "visited": false
+  },
+  {
+    "abbreviation": "NV",
+    "date": "2015",
+    "drive-only": true,
+    "name": "Nevada",
+    "note": "Drove to border on Tahoe trip",
+    "visited": true
+  },
+  {
+    "abbreviation": "NH",
+    "date": "1996",
+    "high-pointed": true,
+    "name": "New Hampshire",
+    "note": "",
+    "visited": true
+  },
+  {
+    "abbreviation": "NJ",
+    "date": "",
+    "lived": true,
+    "name": "New Jersey",
+    "note": "",
+    "visited": true
+  },
+  {
+    "abbreviation": "NM",
+    "date": "2011",
+    "name": "New Mexico",
+    "note": "Albuquerque conference",
+    "visited": true
+  },
+  {
+    "abbreviation": "NY",
+    "date": "",
+    "high-pointed": false,
+    "lived": true,
+    "name": "New York",
+    "note": "",
+    "visited": true
+  },
+  {
+    "abbreviation": "NC",
+    "date": "",
+    "high-pointed": true,
+    "name": "North Carolina",
+    "note": "",
+    "visited": true
+  },
+  {
+    "abbreviation": "ND",
+    "date": "",
+    "name": "North Dakota",
+    "note": "",
+    "visited": false
+  },
+  {
+    "abbreviation": "OH",
+    "date": "",
+    "drive-only": true,
+    "name": "Ohio",
+    "note": "",
+    "visited": true
+  },
+  {
+    "abbreviation": "OK",
+    "date": "",
+    "name": "Oklahoma",
+    "note": "",
+    "visited": false
+  },
+  {
+    "abbreviation": "OR",
+    "date": "2011",
+    "lived": true,
+    "name": "Oregon",
+    "note": "",
+    "visited": true
+  },
+  {
+    "abbreviation": "PA",
+    "date": "",
+    "drive-only": true,
+    "name": "Pennsylvania",
+    "note": "",
+    "visited": true
+  },
+  {
+    "abbreviation": "RI",
+    "date": "",
+    "high-pointed": true,
+    "name": "Rhode Island",
+    "note": "",
+    "visited": true
+  },
+  {
+    "abbreviation": "SC",
+    "date": "",
+    "high-pointed": true,
+    "name": "South Carolina",
+    "note": "",
+    "visited": true
+  },
+  {
+    "abbreviation": "SD",
+    "date": "1992",
+    "name": "South Dakota",
+    "note": "Badlands",
+    "visited": true
+  },
+  {
+    "abbreviation": "TN",
+    "date": "1992",
+    "high-pointed": true,
+    "name": "Tennessee",
+    "note": "Wedddings, grandma",
+    "visited": true
+  },
+  {
+    "abbreviation": "TX",
+    "date": "1992",
+    "name": "Texas",
+    "note": "San Antonio",
+    "visited": true
+  },
+  {
+    "abbreviation": "UT",
+    "date": "",
+    "name": "Utah",
+    "note": "Grandparents",
+    "visited": true
+  },
+  {
+    "abbreviation": "VT",
+    "date": "",
+    "high-pointed": true,
+    "name": "Vermont",
+    "note": "",
+    "visited": true
+  },
+  {
+    "abbreviation": "VA",
+    "date": "",
+    "name": "Virginia",
+    "note": "Sister lives there",
+    "visited": true
+  },
+  {
+    "abbreviation": "WA",
+    "date": "",
+    "name": "Washington",
+    "note": "Seattle",
+    "visited": true
+  },
+  {
+    "abbreviation": "WV",
+    "date": "",
+    "drive-only": true,
+    "name": "West Virginia",
+    "note": "",
+    "visited": true
+  },
+  {
+    "abbreviation": "WI",
+    "date": "",
+    "name": "Wisconsin",
+    "note": "",
+    "visited": false
+  },
+  {
+    "abbreviation": "WY",
+    "date": 1992,
+    "name": "Wyoming",
+    "note": "Yellowstone"
+  }
+]

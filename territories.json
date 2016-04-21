@@ -1,0 +1,66 @@
+[
+  {
+    "abbreviation": "AS",
+    "date": "",
+    "name": "American Samoa",
+    "note": "",
+    "visited": false
+  },
+  {
+    "abbreviation": "DC",
+    "date": "",
+    "high-pointed": true,
+    "name": "District Of Columbia",
+    "note": "",
+    "visited": true
+  },
+  {
+    "abbreviation": "FM",
+    "date": "",
+    "name": "Federated States Of Micronesia",
+    "note": "",
+    "visited": true
+  },
+  {
+    "abbreviation": "GU",
+    "date": "",
+    "name": "Guam",
+    "note": "",
+    "visited": true
+  },
+  {
+    "abbreviation": "MH",
+    "date": "",
+    "name": "Marshall Islands",
+    "note": "",
+    "visited": true
+  },
+  {
+    "abbreviation": "MP",
+    "date": "",
+    "name": "Northern Mariana Islands",
+    "note": "",
+    "visited": true
+  },
+  {
+    "abbreviation": "PW",
+    "date": "",
+    "name": "Palau",
+    "note": "",
+    "visited": true
+  },
+  {
+    "abbreviation": "PR",
+    "date": "",
+    "name": "Puerto Rico",
+    "note": "",
+    "visited": true
+  },
+  {
+    "abbreviation": "VI",
+    "date": "",
+    "name": "Virgin Islands",
+    "note": "",
+    "visited": true
+  }
+]
