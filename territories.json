@@ -19,48 +19,48 @@
     "date": "",
     "name": "Federated States Of Micronesia",
     "note": "",
-    "visited": true
+    "visited": false
   },
   {
     "abbreviation": "GU",
     "date": "",
     "name": "Guam",
     "note": "",
-    "visited": true
+    "visited": false
   },
   {
     "abbreviation": "MH",
     "date": "",
     "name": "Marshall Islands",
     "note": "",
-    "visited": true
+    "visited": false
   },
   {
     "abbreviation": "MP",
     "date": "",
     "name": "Northern Mariana Islands",
     "note": "",
-    "visited": true
+    "visited": false
   },
   {
     "abbreviation": "PW",
     "date": "",
     "name": "Palau",
     "note": "",
-    "visited": true
+    "visited": false
   },
   {
     "abbreviation": "PR",
     "date": "",
     "name": "Puerto Rico",
     "note": "",
-    "visited": true
+    "visited": false
   },
   {
     "abbreviation": "VI",
     "date": "",
     "name": "Virgin Islands",
     "note": "",
-    "visited": true
+    "visited": false
   }
 ]

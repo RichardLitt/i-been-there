@@ -109,15 +109,17 @@
     "abbreviation": "IA",
     "date": "",
     "name": "Iowa",
+    "drive-only": true,
     "note": "",
-    "visited": false
+    "visited": true
   },
   {
     "abbreviation": "KS",
     "date": "",
     "name": "Kansas",
     "note": "",
-    "visited": false
+    "drive-only": true,
+    "visited": true
   },
   {
     "abbreviation": "KY",
@@ -144,9 +146,8 @@
   {
     "abbreviation": "MD",
     "date": "",
-    "drive-only": true,
     "name": "Maryland",
-    "note": "",
+    "note": "Baltimore",
     "visited": true
   },
   {
@@ -300,7 +301,7 @@
     "date": "",
     "high-pointed": true,
     "name": "South Carolina",
-    "note": "",
+    "note": "Born.",
     "visited": true
   },
   {
