@@ -1,0 +1,27 @@
+{
+  "name": "i-been-there",
+  "version": "1.0.0",
+  "description": "Places I have been",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardLitt/i-been-there.git"
+  },
+  "keywords": [
+    "geolocation",
+    "geo",
+    "visit"
+  ],
+  "author": "Richard Littauer <richard.littauer@gmail.com> (http://burntfen.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RichardLitt/i-been-there/issues"
+  },
+  "homepage": "https://github.com/RichardLitt/i-been-there#readme",
+  "dependencies": {
+    "lodash": "^4.11.1"
+  }
+}
