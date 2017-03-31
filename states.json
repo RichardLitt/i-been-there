@@ -46,7 +46,7 @@
   {
     "abbreviation": "CT",
     "date": "1988",
-    "high-pointed": false,
+    "high-pointed": true,
     "lived": true,
     "name": "Connecticut",
     "note": "Raised",
@@ -236,7 +236,7 @@
   {
     "abbreviation": "NY",
     "date": "",
-    "high-pointed": false,
+    "high-pointed": true,
     "lived": true,
     "name": "New York",
     "note": "",
