@@ -68,8 +68,10 @@
     "code": "AR",
     "date": "",
     "name": "Argentina",
+    "note": "1 month with Hacker Paradise",
     "note": "",
-    "visited": false
+    "lived": true,
+    "visited": true
   },
   {
     "code": "AM",
@@ -181,6 +183,7 @@
     "date": "",
     "name": "Bolivia",
     "note": "",
+    "airport": true,
     "visited": false
   },
   {
@@ -264,8 +267,9 @@
     "code": "CA",
     "date": "",
     "name": "Canada",
-    "note": "",
-    "visited": true
+    "note": "I've spent a lot of time in Montreal",
+    "visited": true,
+    "lived": true
   },
   {
     "code": "CV",
