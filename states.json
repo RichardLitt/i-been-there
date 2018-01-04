@@ -1,10 +1,11 @@
 [
   {
     "abbreviation": "AL",
-    "date": "",
+    "date": "2017",
     "name": "Alabama",
-    "note": "",
-    "visited": false
+    "note": "Mount Cheaha, December 30th, 2017",
+    "high-pointed": true,
+    "visited": true
   },
   {
     "abbreviation": "AK",
