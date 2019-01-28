@@ -509,7 +509,7 @@
     "date": "",
     "name": "Finland",
     "note": "",
-    "visited": false
+    "visited": true
   },
   {
     "code": "FR",
@@ -1332,6 +1332,16 @@
     "name": "Scotland",
     "note": "",
     "lived": true,
+    "high-pointed": true,
+    "visited": true
+  },
+  {
+    "code": "",
+    "date": "",
+    "name": "Wales",
+    "note": "",
+    "lived": false,
+    "high-pointed": true,
     "visited": true
   },
   {
@@ -1599,6 +1609,7 @@
     "date": "",
     "name": "United Kingdom (England)",
     "note": "",
+    "high-pointed": true,
     "visited": true
   },
   {

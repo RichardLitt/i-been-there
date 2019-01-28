@@ -302,7 +302,8 @@
     "high-pointed": true,
     "name": "South Carolina",
     "note": "Born.",
-    "visited": true
+    "visited": true,
+    "lived": true
   },
   {
     "abbreviation": "SD",
@@ -339,6 +340,7 @@
     "high-pointed": true,
     "name": "Vermont",
     "note": "",
+    "lived": true,
     "visited": true
   },
   {
