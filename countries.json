@@ -379,10 +379,9 @@
   },
   {
     "code": "HR",
-    "date": "",
+    "date": "2019",
     "name": "Croatia",
     "note": "",
-    "drive-through": false,
     "visited": true
   },
   {
@@ -401,7 +400,7 @@
   },
   {
     "code": "CZ",
-    "date": "",
+    "date": "2007",
     "name": "Czech Republic",
     "note": "",
     "visited": true
@@ -506,7 +505,7 @@
   },
   {
     "code": "FI",
-    "date": "",
+    "date": "2019",
     "name": "Finland",
     "note": "",
     "visited": true
@@ -676,7 +675,7 @@
   },
   {
     "code": "HU",
-    "date": "",
+    "date": "2019",
     "name": "Hungary",
     "note": "",
     "visited": true

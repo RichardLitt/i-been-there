@@ -54,10 +54,10 @@
   },
   {
     "abbreviation": "DE",
-    "date": "",
-    "drive-only": true,
+    "date": "2019",
     "name": "Delaware",
     "note": "",
+    "high-pointed": true,
     "visited": true
   },
   {
@@ -223,6 +223,7 @@
     "lived": true,
     "name": "New Jersey",
     "note": "",
+    "high-pointed": true,
     "visited": true
   },
   {
@@ -281,15 +282,14 @@
   },
   {
     "abbreviation": "PA",
-    "date": "",
-    "drive-only": true,
+    "date": "2017",
     "name": "Pennsylvania",
     "note": "",
     "visited": true
   },
   {
     "abbreviation": "RI",
-    "date": "",
+    "date": "1996",
     "high-pointed": true,
     "name": "Rhode Island",
     "note": "",
