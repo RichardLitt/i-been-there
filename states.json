@@ -103,6 +103,7 @@
     "drive-only": true,
     "name": "Indiana",
     "note": "",
+    "high-pointed": true,
     "visited": true
   },
   {
@@ -114,10 +115,11 @@
   },
   {
     "abbreviation": "KS",
-    "date": "",
+    "date": "2020",
     "name": "Kansas",
     "note": "",
-    "drive-only": true,
+    "drive-only": false,
+    "high-pointed": true,
     "visited": true
   },
   {
@@ -182,10 +184,11 @@
   },
   {
     "abbreviation": "MO",
-    "date": "",
+    "date": "2020",
     "name": "Missouri",
+    "drive-only": true,
     "note": "",
-    "visited": false
+    "visited": true
   },
   {
     "abbreviation": "MT",
@@ -197,9 +200,10 @@
   {
     "abbreviation": "NE",
     "date": "",
+    "drive-only": true,
     "name": "Nebraska",
     "note": "",
-    "visited": false
+    "visited": true
   },
   {
     "abbreviation": "NV",
@@ -263,6 +267,7 @@
     "drive-only": true,
     "name": "Ohio",
     "note": "",
+    "high-pointed": true,
     "visited": true
   },
   {
@@ -375,6 +380,7 @@
     "abbreviation": "WY",
     "date": 1992,
     "name": "Wyoming",
-    "note": "Yellowstone"
+    "note": "Yellowstone",
+    "visited": true
   }
 ]
