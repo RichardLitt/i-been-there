@@ -18,7 +18,7 @@
     "abbreviation": "AZ",
     "date": "1994",
     "name": "Arizona",
-    "note": "Grand Canyon",
+    "note": "Grand Canyon. Four corners 2022",
     "visited": true
   },
   {
@@ -40,7 +40,7 @@
     "abbreviation": "CO",
     "date": "1994",
     "name": "Colorado",
-    "note": "Drive only 1994. Visited 2019.",
+    "note": "Drive only 1994. Visited 2019. Visited 2022.",
     "visited": true
   },
   {
@@ -124,10 +124,11 @@
   },
   {
     "abbreviation": "KY",
-    "date": "",
+    "date": "2021",
     "name": "Kentucky",
-    "note": "",
-    "visited": false
+    "note": "Drive through for high point",
+    "visited": true,
+    "high-pointed": true
   },
   {
     "abbreviation": "LA",
@@ -146,10 +147,11 @@
   },
   {
     "abbreviation": "MD",
-    "date": "",
+    "date": "2021",
     "name": "Maryland",
     "note": "Baltimore",
-    "visited": true
+    "visited": true,
+    "high-pointed": true
   },
   {
     "abbreviation": "MA",
@@ -289,8 +291,9 @@
     "abbreviation": "PA",
     "date": "2017",
     "name": "Pennsylvania",
-    "note": "",
-    "visited": true
+    "note": "2022 high point",
+    "visited": true,
+    "high-pointed": true
   },
   {
     "abbreviation": "RI",
@@ -333,7 +336,7 @@
   },
   {
     "abbreviation": "UT",
-    "date": "",
+    "date": "2022",
     "name": "Utah",
     "note": "Grandparents",
     "visited": true
@@ -349,10 +352,11 @@
   },
   {
     "abbreviation": "VA",
-    "date": "",
+    "date": "2021",
     "name": "Virginia",
-    "note": "Sister lives there",
-    "visited": true
+    "note": "Sister lived there",
+    "visited": true,
+    "high-pointed": true
   },
   {
     "abbreviation": "WA",
@@ -363,11 +367,12 @@
   },
   {
     "abbreviation": "WV",
-    "date": "",
+    "date": "2021",
     "drive-only": true,
     "name": "West Virginia",
     "note": "",
-    "visited": true
+    "visited": true,
+    "high-pointed": true
   },
   {
     "abbreviation": "WI",

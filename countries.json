@@ -512,7 +512,7 @@
   },
   {
     "code": "FR",
-    "date": "",
+    "date": "2022",
     "name": "France",
     "note": "",
     "visited": true
@@ -717,7 +717,7 @@
   },
   {
     "code": "IE",
-    "date": "",
+    "date": "2006, 2022",
     "name": "Ireland",
     "note": "",
     "visited": true
@@ -738,7 +738,7 @@
   },
   {
     "code": "IT",
-    "date": "",
+    "date": "2022",
     "name": "Italy",
     "note": "",
     "visited": true
@@ -934,11 +934,12 @@
   },
   {
     "code": "MT",
-    "date": "",
+    "date": "2022",
     "name": "Malta",
     "note": "",
     "lived": true,
-    "visited": true
+    "visited": true,
+    "high-pointed": true
   },
   {
     "code": "MH",
@@ -1471,7 +1472,7 @@
   },
   {
     "code": "CH",
-    "date": "",
+    "date": "2022",
     "name": "Switzerland",
     "note": "",
     "lived": true,
