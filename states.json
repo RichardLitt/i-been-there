@@ -164,10 +164,11 @@
   },
   {
     "abbreviation": "MI",
-    "date": "",
+    "date": "2023",
     "name": "Michigan",
     "note": "",
-    "visited": false
+    "drive-only": true,
+    "visited": true
   },
   {
     "abbreviation": "MN",

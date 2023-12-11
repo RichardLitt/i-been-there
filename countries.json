@@ -365,10 +365,10 @@
   },
   {
     "code": "CR",
-    "date": "",
+    "date": "2023",
     "name": "Costa Rica",
     "note": "",
-    "visited": false
+    "visited": true
   },
   {
     "code": "CI",
@@ -1083,10 +1083,10 @@
   },
   {
     "code": "NZ",
-    "date": "",
+    "date": "2022",
     "name": "New Zealand",
-    "note": "",
-    "visited": false
+    "note": "Two months",
+    "visited": true
   },
   {
     "code": "NI",
