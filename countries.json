@@ -89,10 +89,10 @@
   },
   {
     "code": "AU",
-    "date": "",
+    "date": "2024",
     "name": "Australia",
     "note": "",
-    "visited": false
+    "visited": true
   },
   {
     "code": "AT",
